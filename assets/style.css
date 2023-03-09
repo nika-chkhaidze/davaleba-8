@@ -148,14 +148,8 @@ main{
 
 nav li:hover{
     background:gold;
-    color: #0A22F4;
-    padding-top: 10px;
-    padding-left: 5px;
-    padding-right: 5px; 
-    border-radius: 2px;
+    height: 20px;
+    border-radius: 2px; 
 }
 
-.contact1 a:hover{
-    margin-top: -10px;
-}
 
